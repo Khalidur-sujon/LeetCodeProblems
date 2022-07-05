@@ -1,7 +1,7 @@
 
 numbers = [1,2,3,1]
 
-def containt_duplicate(num):
+def contain_duplicate(num):
     hashset = set()
 
     for i in num:
